@@ -23,7 +23,7 @@ The concept is simple: I am moving through the timeline of the gaming industry, 
 | :--- | :--- | :--- | :--- |
 | **1972** | **Pong** | ✅ Completed | The grandfather of arcade games. Simple physics, two paddles, one ball. |
 | **1978** | **Space Invaders** | ⏳ Planned | Aliens, bunkers, and increasing speed. |
-| **1980+** | *Coming Soon* | ... | Tetris, Snake, Pac-Man, etc. |
+| **1980+** | *Coming Soon* | ... | Tetris, Snake, Pac-Man, etc |
 
 ### 🚀 Goal
 To trace the evolution of game mechanics and logic by implementing them manually, starting from the absolute basics and gradually introducing more complex systems (AI, pathfinding, physics).
@@ -45,7 +45,7 @@ To trace the evolution of game mechanics and logic by implementing them manually
 | :--- | :--- | :--- | :--- |
 | **1972** | **Pong** | ✅ Готово | Прадедушка аркад. Простая физика, две ракетки, один мяч. |
 | **1978** | **Space Invaders** | ⏳ В планах | Пришельцы, укрытия и нарастающая скорость. |
-| **1980+** | *Скоро* | ... | Тетрис, Змейка, Pac-Man и другие. |
+| **1980+** | *Скоро* | ... | Тетрис, Змейка, Pac-Man и другие |
 
 ### 🚀 Цель
 Проследить эволюцию игровых механик и логики, реализуя их вручную. От абсолютной базы к более сложным системам (ИИ, поиск пути, физика).
